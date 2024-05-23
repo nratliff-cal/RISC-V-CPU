@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Projects/CS61C/RISC-V CPU/cpu"
+		},
+		{
+			"path": "../../../Desktop/Projects/CS61C/RISC-V CPU/harnesses"
+		},
+		{
+			"path": "../../../Desktop/Projects/CS61C/RISC-V CPU/tests"
+		},
+		{
+			"path": "../../../Desktop/Projects/CS61C/RISC-V CPU/tools"
+		}
+	],
+	"settings": {}
+}
